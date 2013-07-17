@@ -1,0 +1,75 @@
+<?page title="Auto Generated index.zul"?>
+
+
+<borderlayout height="1200px">
+	<north title="Pam price observer" maxsize="300" size="50%" splittable="true"
+		collapsible="true">
+		<borderlayout>
+			<west title="West" size="25%" flex="true" maxsize="250"
+				splittable="true" collapsible="true">
+				<div>
+				
+				</div>
+			</west>
+
+
+			<center border="none">
+				<div vflex="1">
+					<tabbox>
+						<tabs>
+							<tab label="123" />
+							<tab label="123" />
+						</tabs>
+						<tabpanels>
+							<tabpanel>
+								<grid>
+									<columns>
+										<column label="2345" />
+										<column label="2345" />
+									</columns>
+									<rows>
+										<row>asdfasdf</row>
+										<row>asdfasdf</row>
+										<row>asdfasdf</row>
+									</rows>
+								</grid>
+							</tabpanel>
+							<tabpanel>
+								<grid>
+									<columns>
+										<column label="2345" />
+										<column label="2345" />
+									</columns>
+									<rows>
+										<row></row>
+									</rows>
+								</grid>
+							</tabpanel>
+						</tabpanels>
+					</tabbox>
+				</div>
+			</center>
+
+		</borderlayout>
+	</north>
+
+</borderlayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
